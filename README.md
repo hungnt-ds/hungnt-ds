@@ -1,3 +1,15 @@
+# Hi, I'm Nguyen Tan Hung 👋
+
+
+I'm an intern and fresher in ASP.NET Core and Spring Boot.
+
+I'm passionate about web development and eager to learn and grow in the tech industry. Currently diving deep into building robust web applications.
+
+Project by me ↓
+
+---
+
+<!---
 # Hello, I'm Nguyen Tan Hung 👋
 
 ## About Me
