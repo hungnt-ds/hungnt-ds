@@ -1,11 +1,16 @@
 # Hi, I'm Nguyen Tan Hung 👋
 
-
 I'm an intern and fresher in ASP.NET Core and Spring Boot.
 
-I'm passionate about web development and eager to learn and grow in the tech industry. Currently diving deep into building robust web applications.
+I'm passionate about web development and eager to learn and grow in the tech industry. Currently, I'm diving deep into building robust web applications.
 
-Project by me ↓
+## Contact Me
+
+- **Email**: hungnt.dfs@gmail.com
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+Projects by me ↓
 
 ---
 
@@ -40,9 +45,9 @@ Here are a few projects I've worked on:
 - **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle) 
 --->
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+<!---  Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
----
+<!--- ---
 
 <!--- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
