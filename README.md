@@ -16,9 +16,9 @@ I'm a passionate Software Developer with an interest in web development and open
 Here are a few projects I've worked on:
 
 1. **StaffHubAPI** - A Staff Management API built with ASP.NET Core
-   - [GitHub Repository Link]([https://github.com/yourusername/project-repo](https://github.com/hungnt-ds/StaffHubAPI))
+   - [GitHub Repository Link](https://github.com/hungnt-ds/StaffHubAPI)
 2. **H3Art Platform** - Artworks Sharing and Selling Platform - Social Media, E-Commerce hybrid - Consumer to Consumer
-   - [GitHub Repository Link]([https://github.com/yourusername/project-repo](https://github.com/conghung2708/H3ArTArtwork_LanthuN))
+   - [GitHub Repository Link](https://github.com/conghung2708/H3ArTArtwork_LanthuN)
 
 ## Contact Me
 
